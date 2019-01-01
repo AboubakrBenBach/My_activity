@@ -1,0 +1,3 @@
+   L'informatique est la science du traitement des informations avec des moyens électroniques.
+Elle est conçue pour servir les humains. Elle s'occupe d'enregistrer,stocker, traiter, organiser,transférer et présenter les informations sous une forme utilisable. 
+L'informatique utilise l'électronique dont les ordinateurs sont un aboutissement.
